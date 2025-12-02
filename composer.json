@@ -1,0 +1,16 @@
+{
+    "name": "sz-krol/dziennik",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Szymon Król"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.9"
+    }
+}

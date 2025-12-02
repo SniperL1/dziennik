@@ -1,12 +1,16 @@
 <?php
 
-class Teacher extends User
+namespace entities;
+
+require "User.php";
+
+class Student extends User
 {
     public $id;
     public $name;
     public $surname;
 
-    public $roles = ['ROLE_TEACHER'];
+    public $roles = ['ROLE_STUDENT'];
 
     public function __construct($id, $name, $surname)
     {
@@ -14,4 +18,5 @@ class Teacher extends User
         $this->name = $name;
         $this->surname = $surname;
     }
+
 }

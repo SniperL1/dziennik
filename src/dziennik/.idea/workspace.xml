@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c7f72ca-885a-40b6-b6f6-b10131108aed" name="Changes" comment="praca 26 11 2025&#10;SzymonKról">
+      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controllers/securityController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/security/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/security/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/security/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/StudentsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controllers/StudentsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/Teacher.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Teacher.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entities/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/security.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/student/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/student/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/student/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/student/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SniperL1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SniperL1/dziennik&quot;,
+    &quot;accountId&quot;: &quot;07bc80d4-706c-43d4-aef2-30c3766a40fe&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35xcNRatB9Bqszeo4DDNhf0JB81" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Database Script.database.sql (1).executor": "Run",
+    "Database Script.database.sql (2).executor": "Run",
+    "Database Script.database.sql.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dziennik\src" />
+      <recent name="C:\xampp\htdocs\dziennik" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.database.sql">
+    <configuration name="database.sql (1)" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="3d9c6426-d4d0-46e6-8214-ae1705061a1b" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database.sql (2)" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="3d9c6426-d4d0-46e6-8214-ae1705061a1b" namespace="schema/&quot;database&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="6ce55fad-94a5-4b52-ae64-8b6b53d1b016" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128" />
+        <option value="bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c7f72ca-885a-40b6-b6f6-b10131108aed" name="Changes" comment="" />
+      <created>1764055123850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764055123850</updated>
+      <workItem from="1764055124963" duration="4991000" />
+      <workItem from="1764150371935" duration="2690000" />
+      <workItem from="1764227281596" duration="30000" />
+      <workItem from="1764658989589" duration="5667000" />
+    </task>
+    <task id="LOCAL-00001" summary="dodanie edit do students">
+      <option name="closed" value="true" />
+      <created>1764057729186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764057729186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="praca 25 11 2025&#10;SK">
+      <option name="closed" value="true" />
+      <created>1764060068433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764060068433</updated>
+    </task>
+    <task id="LOCAL-00003" summary="praca 26 11 2025&#10;SzymonKról">
+      <option name="closed" value="true" />
+      <created>1764153066957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764153066957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dodanie edit do students" />
+    <MESSAGE value="praca 25 11 2025&#10;SK" />
+    <MESSAGE value="praca 26 11 2025&#10;SzymonKról" />
+    <option name="LAST_COMMIT_MESSAGE" value="praca 26 11 2025&#10;SzymonKról" />
+  </component>
+</project>
